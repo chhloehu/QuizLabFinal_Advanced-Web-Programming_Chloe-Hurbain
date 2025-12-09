@@ -14,7 +14,7 @@ This is a simple Node.js project using **Express** and **MySQL** to perform basi
 
 ## Project Structure
 project-folder/ <br> 
-├─ index.js # Main server file<br> 
+├─ app.js # Main server file<br> 
 ├─ package.json # Node.js project config<br> 
 └─ README.md # Project documentation<br> 
 
