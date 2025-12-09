@@ -30,7 +30,7 @@ npm install express mysql
 node index.js
 // open your browser and visit 
 http://localhost:3000/
-
+``` 
 
 Use Postman to test adding, updating, or deleting provinces using the following routes:
 * POST /add – Add a province
